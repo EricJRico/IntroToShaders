@@ -1,9 +1,19 @@
-# How to Use
-The **Assets/0_Start** is starting the point for each shader. Using ShaderGraph and the mermaid diagrams below, create each shader below.
+# Setup
+1. Download the latest Unity 6 LTS version as seen in Unity Hub > Installs.
 
-The session is meant to be a "Watch -> Do it yourself -> Discuss" workflow for each shader.
+    <img width="1830" height="1125" alt="image" src="https://github.com/user-attachments/assets/b0002419-1118-4241-9b37-63079400300c" />
 
-The duration is lengthened to allow for more time for those new to shaders and ShaderGraph. There are also challenges for each section as shown below for ones that finish early.
+    This session uses 6000.3.6f1.
+
+2. Clone this repo using `git clone https://github.com/EricJRico/IntroToShaders.git` or download the zip and place it in a folder of your choosing.
+
+    <p align="center"><img width="545" height="390" alt="image" src="https://github.com/user-attachments/assets/0e96d3aa-65d3-40f7-848b-31239885cf29" /></p>
+
+3. The **Assets/0_Start** folder is starting the point for each shader. Using ShaderGraph and the mermaid diagrams below, create each shader below.
+
+    The session is meant to be a "**Watch** -> **Do it yourself** -> **Discuss**" workflow for each shader.
+
+    The duration is lengthened to allow for more time for those new to shaders and ShaderGraph. There are also challenges for each section as shown below for ones that finish early.
 
 # Intro to Shaders Workshop — Build Reference
 
