@@ -1,3 +1,10 @@
+# How to Use
+The **Assets/0_Start** is starting the point for each shader. Using ShaderGraph and the mermaid diagrams below, create each shader below.
+
+The session is meant to be a "Watch -> Do it yourself -> Discuss" workflow for each shader.
+
+The duration is lengthened to allow for more time for those new to shaders and ShaderGraph. There are also challenges for each section as shown below for ones that finish early.
+
 # Intro to Shaders Workshop — Build Reference
 
 ## Time Breakdown
