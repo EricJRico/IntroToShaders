@@ -9,7 +9,7 @@
 
     <p align="center"><img width="545" height="390" alt="image" src="https://github.com/user-attachments/assets/0e96d3aa-65d3-40f7-848b-31239885cf29" /></p>
 
-3. The **Assets/0_Start** folder is starting the point for each shader. Using ShaderGraph and the mermaid diagrams below, create each shader below.
+3. The **Assets/0_Start** folder is starting the point for each shader. Using ShaderGraph and the mermaid diagrams below, create each shader shown.
 
     The session is meant to be a "**Watch** -> **Do it yourself** -> **Discuss**" workflow for each shader.
 
